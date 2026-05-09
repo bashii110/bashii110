@@ -1,24 +1,163 @@
-# 💫 About Me:
-I'm currently open to work. Also i am final year student<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FF2D20&height=200&section=header&text=Hey%2C+I%27m+Bashir!&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Flutter+Developer+%C2%B7+Final+Year+CS+Student&descAlignY=58&descSize=18" width="100%" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bashir Bin Ahmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bashirs.drip._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bashir Ahmed) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Bashir Ahmed) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bashirs.drip._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bashir Ahmed) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bashir Ahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buxhiisd@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bashii110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bashii110&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bashii110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 &nbsp;**Final Year Software Engineering Student**&nbsp; · &nbsp;💼 &nbsp;**Open to Work**&nbsp; · &nbsp;📍 &nbsp;**Pakistan**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bashii110&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-02569B?style=flat-square)](https://bashii110.github.io/food_hub/)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buxhiisd@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bashii110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+```dart
+class Bashir extends Developer {
+  final String role     = "Flutter & Full-Stack Developer";
+  final String status   = "Open to Work";
+  final String degree   = "BE Software Engineering — Final Year";
+  final List   stack    = ["Flutter", "Laravel", "MySQL", "Firebase", "Rest APIs"];
+  final String passion  = "Building clean, user-first mobile experiences";
+  final String contact  = "buxhiisd@gmail.com";
+}
+```
+
+- 🚀 &nbsp;Building full-stack mobile apps with **Flutter + Laravel**
+- 🎯 &nbsp;Focused on **clean architecture**, smooth UI, and real-world projects
+- 📱 &nbsp;Currently working on a **Doctor Appointment App** & **Food Ordering Platform**
+- 💡 &nbsp;Always learning — currently exploring **Firebase** and **WebSockets**
+- 🤝 &nbsp;Looking for **internship / junior developer** opportunities
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bashir%20Ahmed)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bashirs.drip._)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Bashir%20Bin%20Ahmed)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Bashir%20Ahmed)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@bashirs.drip._)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Bashir%20Ahmed)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Bashir%20Ahmed)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buxhiisd@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
+### 🔧 Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏥 DoctorApp</h3>
+      <p>Full-stack mobile healthcare platform connecting patients with doctors. Book appointments, manage schedules, and review doctors.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/bashii110/Dr-App">
+        <img src="https://img.shields.io/badge/View%20Repo-black?style=flat-square&logo=github" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🍔 FoodHub</h3>
+      <p>Full-stack food ordering app with a complete admin panel, multi-method payments, order tracking, and light/dark theme support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      </p>
+      <a href="https://github.com/bashii110/food_hub">
+        <img src="https://img.shields.io/badge/View%20Repo-black?style=flat-square&logo=github" />
+      </a>
+      &nbsp;
+      <a href="https://bashii110.github.io/food_hub/">
+        <img src="https://img.shields.io/badge/Live%20Demo-brightgreen?style=flat-square&logo=flutter" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashii110&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
+<br/>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bashii110&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashii110&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bashii110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=bashii110&icon=5&color=6)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:02569B&height=120&section=footer" width="100%" />
+
+</div>
