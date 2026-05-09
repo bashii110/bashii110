@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-02569B?style=flat-square)](https://bashii110.github.io/food_hub/)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-02569B?style=flat-square)](https://bashii110.github.io/bashir_ahmed_portfolio/)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buxhiisd@gmail.com)
 
 </div>
