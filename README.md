@@ -118,16 +118,15 @@ class Bashir extends Developer {
 
 <div align="center">
 
-![Bashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashii110&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashii110&theme=tokyonight)
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bashii110&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bashii110&theme=tokyonight&hide_border=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashii110&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashii110&theme=tokyonight)
 </div>
 
 ---
@@ -154,7 +153,7 @@ class Bashir extends Developer {
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=bashii110&icon=5&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=bashii110&color=blue&style=flat-square)
 
 <br/>
 
