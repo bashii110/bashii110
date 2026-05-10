@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-02569B?style=flat-square)](https://bashii110.github.io/bashir_ahmed_portfolio/)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buxhiisd@gmail.com)
-
+[![Resume](https://img.shields.io/badge/Resume-Download-02569B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xqtLzeXhm-QGYgSfdOYin2CqbIvmEAcq/view?usp=drive_link)
 </div>
 
 ---
@@ -127,6 +127,11 @@ class Bashir extends Developer {
 <br/>
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashii110&theme=tokyonight)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bashii110&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
@@ -154,6 +159,7 @@ class Bashir extends Developer {
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bashii110&color=blue&style=flat-square)
+
 
 <br/>
 
