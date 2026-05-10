@@ -128,6 +128,15 @@ class Bashir extends Developer {
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashii110&theme=tokyonight)
 
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bashii110/bashii110/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bashii110/bashii110/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/bashii110/bashii110/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bashii110&theme=tokyo-night&hide_border=true)
