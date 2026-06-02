@@ -142,13 +142,16 @@
 
 ---
 
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bashii110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img src="https://github-trophy.vercel.app/?username=bashii110&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" />
 
 </div>
+
+
 
 ---
 
