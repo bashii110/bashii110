@@ -15,24 +15,21 @@
 
 ---
 
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 ## 🙋‍♂️ About Me
 
-```dart
-class Bashir extends Developer {
-  final String role     = "Flutter & Full-Stack Developer";
-  final String status   = "Open to Work";
-  final String degree   = "BE Software Engineering — Final Year";
-  final List   stack    = ["Flutter", "Laravel", "MySQL", "Firebase", "Rest APIs"];
-  final String passion  = "Building clean, user-first mobile experiences";
-  final String contact  = "buxhiisd@gmail.com";
-}
-```
 
 - 🚀 &nbsp;Building full-stack mobile apps with **Flutter + Laravel**
 - 🎯 &nbsp;Focused on **clean architecture**, smooth UI, and real-world projects
 - 📱 &nbsp;Currently working on a **Doctor Appointment App** & **Food Ordering Platform**
 - 💡 &nbsp;Always learning — currently exploring **Firebase** and **WebSockets**
 - 🤝 &nbsp;Looking for **internship / junior developer** opportunities
+
+
+
 
 ---
 
