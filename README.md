@@ -29,7 +29,7 @@
 - 🤝 &nbsp;Open to **internship / junior developer** roles
 <br clear="right"/>
 
-
+---
 
 ## 💼 Experience
  
